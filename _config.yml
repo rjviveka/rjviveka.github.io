@@ -6,17 +6,17 @@
 name: Thoshith Ravi
 
 # Short bio or description (displayed in the header)
-description: Engineering, Technology, Photography
-url: http://www.kennygorman.com
+description: Student of Cinema & Writer.
+url: http://vivekprakash.me
 
 # Permalinks
 permalink:        pretty
 baseurl:          /
-title: 		      thoshithsoch.in
+title: 		      vivekprakash.me
 
 author:
-  name:           'Thoshith Ravi'
-  url:            https://twitter.com/thoshith
+  name:           'Vivek Prakash'
+  url:            https://twitter.com/VPTalks
 
 paginate:         5
 
